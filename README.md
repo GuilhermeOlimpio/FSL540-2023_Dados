@@ -20,6 +20,6 @@ Para análise e sistematização, utilizamos a linguagem de programação R e se
 
 'FSL0540_SAEB21_reg.csv' está o banco de dados utilizado para a Regressão Logit. Multinomial
 
-'FSL0540_SAEB21_SP_ACM.csv' está o banci de dados utilzado para a ACM do SAEB 21 de SP
+'FSL0540_SAEB21_SP_ACM.csv' está o banco de dados utilizado para a ACM do SAEB 21 de SP
 
-'FSL0540_SAEB19_SP_ACM.csv' está o banci de dados utilzado para a ACM do SAEB 19 de SP
+'FSL0540_SAEB19_SP_ACM.csv' está o banco de dados utilizado para a ACM do SAEB 19 de SP
